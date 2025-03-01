@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm **Manas Patel**, a tech enthusiast pursuing an **MBA T
 
 ### 🛠️ Technical Skills
 - **Programming:** Python, LabVIEW, HTML/CSS, JavaScript.
-- **Data Analytics Tools:** Tableau, SAS, Excel.
+- **Data Analytics Tools:** Power BI, Tableau, SAS, Excel.
 - **Database Management:** MySQL, Oracle.
 - **UI/UX Design:** Front-end development and prototyping.
 - **Soft Skills:** Time management, adaptability, and analytical thinking.
