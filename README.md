@@ -29,7 +29,7 @@ CGPA: **3.77 / 4.0**
 
 ## 💼 Professional Experience
 
-### 🚛 Management Intern – LogisticsNow  
+### 🚛 Data Analyst Intern – LogisticsNow  
 *May 2025 – September 2025*
 
 - Built an **Integrated Logistics Dashboard using Power BI**  
