@@ -121,7 +121,6 @@ Conducted ratio-based financial evaluation and industry benchmarking within the 
 
 ## 🏆 Achievements & Leadership
 
-- 🥇 Finalist – **Flipkart WiRED 8.0 (Product Track)**, National Level (2024)  
 - 🥈 2nd Place – Innomation ARS AUTOMATIKA, ISA MPSTME (2024)  
 - 🥇 1st Place – District-Level KalaMahakumbh Scout-Band Competition (2020)  
 - 🎖 Scout Troop Leader – Leadership & Team Coordination  
